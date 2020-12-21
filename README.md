@@ -22,3 +22,8 @@ git团队协作
 * 测试单独cherry-pick 01
 * 测试单独cherry-pick 02
 * 测试单独cherry-pick 03
+
+
+### 合并test后新增
+- 新增 01
+- 新增 02
