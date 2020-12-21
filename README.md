@@ -13,3 +13,4 @@ git团队协作
 * 测试同时cherry-pick 03
 
 * 测试单独cherry-pick 01
+* 测试单独cherry-pick 02
