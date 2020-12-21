@@ -9,3 +9,4 @@ git团队协作
 - 提交4
 
 * 测试同时cherry-pick 01
+* 测试同时cherry-pick 02
